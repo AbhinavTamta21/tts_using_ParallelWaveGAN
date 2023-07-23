@@ -1,4 +1,4 @@
-# tts_using_ParallelWaveGAN
+# Text-to-speech synthesis using ParallelWaveGAN
 This notebook provides a demonstration of the Text to speech in English Language using ESPnet2-TTS and ParallelWaveGAN.
 <hr>
 # Installation
